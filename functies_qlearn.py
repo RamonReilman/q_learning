@@ -250,3 +250,9 @@ def load_table():
     q_table = np.load("q_table_array.npy")
     return q_table
 
+<<<<<<< 2803bb564ecfa16969cbaa08baa25589fbc834e6
+def test(x):
+	#doet iets
+	print(x)
+=======
+>>>>>>> a8274e78167916c45fb8e4977fd76c74af5eadac
