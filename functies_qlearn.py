@@ -249,3 +249,7 @@ def load_table():
     """
     q_table = np.load("q_table_array.npy")
     return q_table
+
+def test(x):
+	#doet iets
+	print(x)
