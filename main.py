@@ -18,7 +18,7 @@ import numpy as np
 from functies_qlearn import drawgrid, drawterminal, is_terminal_state, \
                             gen_start_position, q_value_update, create_reward_nd_qtable, load_table
 
-
+#extra add
 def main():
     save_or_load = sys.argv[1]
     generations = int(sys.argv[2])
