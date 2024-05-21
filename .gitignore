@@ -1,0 +1,7 @@
+build/
+dist/
+pygame_venv/
+test.pygame_venv
+.idea/
+__pycache__/
+main.spec
