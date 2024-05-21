@@ -46,17 +46,16 @@ there are 3 states in this environment: <br>
 3. -5 rewards (white)
 
 There is also a blue circle, this is the agent that explores the environment. <br>
-after around 100-200 episodes is when the agent should consistent go to a green box. <br>
+after around 100-200 episodes is when the agent should consistently go to a green box. <br>
 
-The position of terminal blocks are randomized, so if the agent is taking way longer to get to the green boxen, you can rerun the main. <br>
+The position of terminal blocks are randomized, so if the agent is taking way longer to get to the green box, you can rerun the main. <br>
 
-The agent sometimes freezes, its trying to find a new position that isn't terminal. <br>
+The agent sometimes freezes, it's trying to find a new position that isn't terminal. <br>
 
 ## Support <br>
 
 If any bugs are found:
-mail r.reilman@st.hanze.nl <br>
-for support.
+github: https://github.com/RamonReilman <br>
 
 ## Acknowledgement
 

@@ -48,7 +48,6 @@ def main():
     epsilon = 1
     epsilon_decay = 0.0001
     sleep_time = 0
-
     # set the window caption
     pygame.display.set_caption("Qlearning showcase")
 
